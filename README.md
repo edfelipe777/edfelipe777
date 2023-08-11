@@ -21,8 +21,6 @@
   <img align="center" alt="Edfelipe777-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
   
-  ##
-  
   <!--Rede Sociais e Sneak-->
   <div> 
       <a href="https://https://https://www.youtube.com/channel/UC7Bxz7xJlZ3GTpQXs5gkS4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
